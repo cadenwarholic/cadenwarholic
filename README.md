@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Caden 👋
 
-<!--
-**cadenwarholic/cadenwarholic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student at UNCW (Cybersecurity Concentration)
 
-Here are some ideas to get you started:
+I'm passionate about cybersecurity, Linux, networking, and automation. I enjoy building homelabs, documenting what I learn, and creating projects that improve my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+- Linux
+- Proxmox
+- Networking
+- Python
+
+## 📚 Currently Learning
+
+- Security+
+- Active Directory
+- SIEM & Blue Teaming
+
+## 🚀 Featured Projects
+
+- 🖥️ Homelab Documentation
+- 🔒 Cybersecurity Labs
+
+## 🎯 Career Goals
+
+I'm seeking opportunities in IT, systems administration, and cybersecurity while continuing to expand my knowledge through hands-on labs, certifications, and personal projects.
