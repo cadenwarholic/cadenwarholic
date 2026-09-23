@@ -4,18 +4,6 @@
 
 I'm passionate about cybersecurity, Linux, networking, and automation. I enjoy building homelabs, documenting what I learn, and creating projects that improve my technical skills.
 
-## 🛠️ Technologies
-
-- Linux
-- Proxmox
-- Networking
-- Python
-
-## 📚 Currently Learning
-
-- Security+
-- Active Directory
-- SIEM & Blue Teaming
 
 ## 🚀 Featured Projects
 
