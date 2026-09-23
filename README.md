@@ -7,7 +7,7 @@ I'm passionate about cybersecurity, Linux, networking, and automation. I enjoy b
 
 ## 🚀 Featured Projects
 
-- 🖥️ Homelab Documentation
+- 🖥️ <a href="https://github.com/cadenwarholic/Home-Lab"> Homelab Documentation </a>
 - 🔒 Cybersecurity Labs
 
 ## 🎯 Career Goals
