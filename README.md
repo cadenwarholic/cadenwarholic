@@ -2,7 +2,7 @@
 
 🎓 IT Student at UNCW (Cybersecurity Concentration)
 
-I'm passionate about cybersecurity, Linux, networking, and automation. I enjoy building homelabs, documenting what I learn, and creating projects that improve my technical skills.
+I'm passionate about cybersecurity, Linux, networking, and automation. I enjoy working on my homelab, documenting what I learn, and creating projects that improve my technical skills.
 
 
 ## 🚀 Featured Projects
